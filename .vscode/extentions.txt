@@ -1,0 +1,32 @@
+code --list-extensions
+------------------------------
+Result of command "code --list-extensions" on my dev env:
+
+Angular.ng-template
+christian-kohler.path-intellisense
+davidbabel.vscode-simpler-icons
+doggy8088.angular-extension-pack
+donjayamanne.githistory
+DSKWRK.vscode-generate-getter-setter
+eamodio.gitlens
+EditorConfig.EditorConfig
+eg2.tslint
+felixfbecker.php-debug
+formulahendry.auto-rename-tag
+HookyQR.beautify
+IBM.output-colorizer
+infinity1207.angular2-switcher
+joelday.docthis
+johnpapa.Angular2
+krizzdewizz.refactorix
+MariusAlchimavicius.json-to-ts
+Mikael.Angular-BeastCode
+ms-mssql.mssql
+ms-vscode.csharp
+ms-vscode.typescript-javascript-grammar
+msjsdiag.debugger-for-chrome
+pmneo.tsimporter
+quicktype.quicktype
+stringham.move-ts
+wayou.vscode-todo-highlight
+xabikos.JavaScriptSnippets
